@@ -1,0 +1,8 @@
+site_name: Pedio_Zaki
+
+nav:
+
+    - 'MD': 'indexmd'
+    - 'Test': 'test.txt'
+theme:
+  name: readthedocs
